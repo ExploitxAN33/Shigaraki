@@ -54,9 +54,6 @@ follow this steps below
     python shigaraki.py
 ```
     
-## 🚀 About Me
-Hello Folks , This is Ananta | VAPT | ❤️ team | Bughunter | Secured NASA , Indian Gov + many .
-
 
 ## 🔗 Links
 
